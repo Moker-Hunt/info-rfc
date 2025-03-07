@@ -517,11 +517,11 @@ footer {
 
 .cookie-buttons button {
     font-family: 'Anaheim-Bold';
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 .cookie-buttons button {
-    padding: 14px 18px;
+    padding: 16px 16px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
